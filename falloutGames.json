@@ -1,0 +1,9 @@
+{"Fallout":
+[
+{"Title": "Fallout", "Released": 1997, "Developer": "Interplay", "Publisher": "Interplay", "Locations": "California", "Year": 2161, "View": "Pseudo Isometric"},
+{"Title": "Fallout 2", "Released": 1998, "Developer": "Black Isle Studios", "Publisher": "Black Isle Studios", "Locations": "California and Nevada", "Year": 2241, "View": "Pseudo Isometric"},
+{"Title": "Fallout 3", "Released": 2008, "Developer": "Bethesda Game Studios", "Publisher": "Bethesda Softworks", "Locations": "D.C. Maryland and Virgina", "Year": 2277, "View": "1st & 3rd Person"},
+{"Title": "Fallout New Vegas", "Released": 2010, "Developer": "Obsidian Entertainment", "Publisher": "Bethesda Softworks", "Locations": "Nevada and California and Arizona", "Year": 2281, "View": "1st & 3rd Person"},
+{"Title": "Fallout 4", "Released": 2015, "Developer": "Bethesda Game Studios", "Publisher": "Bethesda Softworks", "Locations": "Boston", "Year": 2287, "View": "1st & 3rd Person"}
+]
+}
