@@ -1,9 +1,29 @@
-{"iPhones":
-[
-{"4.7 inch iPhone 7": 73000},
-{"5.5 inch iPhone 7": 85000},
-{"4.7 inch iPhone6s": 62000},
-{"iPhone 6s Plus": 73000},
-{"iPhone SE": 45000}
-]
-} 
+{
+  "iPhones": [
+    {
+      "model": "iPhone 7",
+      "screenSize": 4.7,
+      "price": 73000
+    },
+    {
+      "model": "iPhone 7",
+      "screenSize": 5.5,
+      "price": 85000
+    },
+    {
+      "model": "iPhone 6s",
+      "screenSize": 4.7,
+      "price": 62000
+    },
+    {
+      "model": "iPhone 6s Plus",
+      "screenSize": "",
+      "price": 73000
+    },
+    {
+      "model": "iPhone SE",
+      "screenSize": "",
+      "price": 45000
+    }
+  ]
+}
