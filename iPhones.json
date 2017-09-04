@@ -6,7 +6,7 @@
       "price": 73000
     },
     {
-      "model": "iPhone 7",
+      "model": "iPhone 7 Plus",
       "screenSize": 5.5,
       "price": 85000
     },
@@ -17,12 +17,12 @@
     },
     {
       "model": "iPhone 6s Plus",
-      "screenSize": "",
+      "screenSize": 5.5,
       "price": 73000
     },
     {
       "model": "iPhone SE",
-      "screenSize": "",
+      "screenSize": 4,
       "price": 45000
     }
   ]
