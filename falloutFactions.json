@@ -1,13 +1,54 @@
-{"factions":
-[{"name": "Blades", "HQ": "A night club in Downtown Boneyard", "leader": "Razor"},
-{"name": "Brotherhood of Steel", "HQ": "Lost Hills", "leader": "Colonel Robert Spindel"},
-{"name": "Children of the Cathedral", "HQ": "The Cathedral", "leader": "Morpheus"},
-{"name": "Followers of the Apocalypse", "HQ": "The Boneyard Library", "leader": "Nicole and Julie Farkas"},
-{"name": "Gun Runners", "HQ": "The Fortress", "leader": "Gabriel"},
-{"name": "Regulators", "HQ": "Adytum", "leader": "Caleb"},
-{"name": "Unity", "HQ": "The Cathedral and the Mariposa Military base", "leader": "Master, Lieutenant, Morpheus"},
-{"name": "Water Merchantes", "HQ": "The Hub", "leader": "Martha Rastello"},
-{"name": "Skulz", "HQ": "Crash House", "leader": "Vinnie"},
-{"name": "Thieves' Guild", "HQ": "The Hub", "leader": "Loxely"}
-]
+{
+  "factions": [
+    {
+      "name": "Blades",
+      "operations": "A night club in Downtown Boneyard",
+      "leader": "Razor"
+    },
+    {
+      "name": "Brotherhood of Steel",
+      "operations": "Lost Hills",
+      "leader": "Colonel Robert Spindel"
+    },
+    {
+      "name": "Children of the Cathedral",
+      "operations": "The Cathedral",
+      "leader": "Morpheus"
+    },
+    {
+      "name": "Followers of the Apocalypse",
+      "operations": "The Boneyard Library",
+      "leader": "Nicole and Julie Farkas"
+    },
+    {
+      "name": "Gun Runners",
+      "operations": "The Fortress",
+      "leader": "Gabriel"
+    },
+    {
+      "name": "Regulators",
+      "operations": "Adytum",
+      "leader": "Caleb"
+    },
+    {
+      "name": "Unity",
+      "operations": "The Cathedral and the Mariposa Military base",
+      "leader": "Master, Lieutenant, Morpheus"
+    },
+    {
+      "name": "Water Merchantes",
+      "operations": "The Hub",
+      "leader": "Martha Rastello"
+    },
+    {
+      "name": "Skulz",
+      "operations": "Crash House",
+      "leader": "Vinnie"
+    },
+    {
+      "name": "Thieves' Guild",
+      "operations": "The Hub",
+      "leader": "Loxely"
+    }
+  ]
 }
