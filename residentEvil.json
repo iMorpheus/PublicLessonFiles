@@ -1,6 +1,14 @@
 {
   "ResidentEvil": [
     {
+      "Title": "Title of Film",
+      "Released": "Date of release",
+      "NA": "North America Gross",
+      "OS": "Overseas Gross",
+      "WW": "World-wide Gross",
+      "Budget": "Film Budget"
+    },
+    {
       "Title": "Resident Evil",
       "Released": 2002,
       "NA": "40,000,000",
@@ -47,6 +55,14 @@
       "OS": "285,000,000",
       "WW": "312,000,000",
       "Budget": "40,000,000"
+    },
+    {
+      "Title": "What is the first/next title in the series",
+      "Released": "In what year was Afterlife released?",
+      "NA": "How many USD did Afterlife gross in North America?",
+      "OS": "How many USD did Aferlife gorss overseas?",
+      "WW": "How many USD did Afterlife gross world-wide?",
+      "Budget": "How many USDs were earmarked/budgeted for the production of Afterlife by Constintin Films?"
     }
   ]
 }
