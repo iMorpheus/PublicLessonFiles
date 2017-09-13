@@ -1,0 +1,44 @@
+{
+  "openMaxPlayer": [
+    {
+      "function": "Play and Resume",
+      "key": "p or space"
+    },
+    {
+      "function": "Exit",
+      "key": "q"
+    },
+    {
+      "function": "Play next audio track",
+      "key": "k"
+    },
+    {
+      "function": "Play previous audio track",
+      "key": "j"
+    },
+    {
+      "function": "Rewind",
+      "key": "<"
+    },
+    {
+      "function": "Fast Forward",
+      "key": ">"
+    },
+    {
+      "function": "Increase playback speed",
+      "key": "2"
+    },
+    {
+      "function": "Decrease playback speed",
+      "key": "1"
+    },
+    {
+      "function": "Raise playback volume",
+      "key": "+ or ="
+    },
+    {
+      "Function": "Lower playback volume",
+      "key": "-"
+    }
+  ]
+}
