@@ -1,7 +1,7 @@
 {
   "openMaxPlayer": [
     {
-      "function": "Play and Resume",
+      "function": "Play or resume audio stream",
       "key": "p or space"
     },
     {
