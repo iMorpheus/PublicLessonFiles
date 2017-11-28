@@ -1,0 +1,50 @@
+{
+  "PlayStation": {
+    "Release date": {
+      "JP": "1994-12-03",
+      "NA": "1995-09-09",
+      "EU": "1995-09-29"
+    },
+    "Units sold in million": 102.49,
+    "Best selling game": {
+      "Title": "Gran Turismo",
+      "Copies sold in million": 10.85
+    }
+  },
+  "PlayStation 2": {
+    "Release date": {
+      "JP": "2000-03-04",
+      "NA": "2000-10-26",
+      "EU": "2000-11-24"
+    },
+    "Units sold in million": 155,
+    "Best selling game": {
+      "Title": "Grand Theft Auto: San Andreas",
+      "Copies sold in million": 17.33
+    }
+  },
+  "PlayStation 3": {
+    "Release date": {
+      "JP": "2006-11-11",
+      "NA": "2006-11-17",
+      "EU": "2007-03-23"
+    },
+    "Units sold in million": 84,
+    "Best selling game": {
+      "Title": "Grand Theft Auto V",
+      "Copies sold in million": 15
+    }
+  },
+  "PlayStation 4": {
+    "Release date": {
+      "NA": "2013-11-15",
+      "EU": "2013-11-29",
+      "JP": "2014-02-22"
+    },
+    "Units sold in million": 50,
+    "Best selling game": {
+      "Title": "Uncharted 4: A Thief's End",
+      "Copies sold in million": 8.7
+    }
+  }
+}
