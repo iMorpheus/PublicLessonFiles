@@ -1,0 +1,86 @@
+{
+  "Nintendo Entertainment System": {
+    "Release date": {
+      "JP": "1983-07-15",
+      "NA": "1985-10-18",
+      "EU": "1986-09-01"
+    },
+    "Units sold in million": 61.91,
+    "Best selling game": {
+      "Title": "Super Mario Bros.",
+      "Copies sold in million": 40.23
+    }
+  },
+  "Super Nintendo Entertainment System": {
+    "Release date": {
+      "JP": "1990-11-21",
+      "NA": "1991-08-23",
+      "EU": "1992-04-11"
+    },
+    "Units sold in million": 49.10,
+    "Best selling game": {
+      "Title": "Super Mario World",
+      "Copies sold in million": 20.60
+    }
+  },
+  "Nintendo 64": {
+    "Release date": {
+      "JP": "1996-06-23",
+      "NA": "1996-09-26",
+      "EU": "1997-03-01"
+    },
+    "Units sold in million": 32.93,
+    "Best selling game": {
+      "Title": "Super Mario 64",
+      "Copies sold in million": 11.62
+    }
+  },
+  "Nintendo GameCube": {
+    "Release date": {
+      "JP": "2001-09-14",
+      "NA": "2001-11-18",
+      "EU": "2002-03-03"
+    },
+    "Units sold in million": 21.74,
+    "Best selling game": {
+      "Title": "Super Smash Bros. Melee",
+      "Copies sold in million": 7.09
+    }
+  },
+  "Wii": {
+    "Release date": {
+      "JP": "2006-11-19",
+      "NA": "2006-12-02",
+      "EU": "2006-12-08"
+    },
+    "Units sold in million": 101.63,
+    "Best selling game": {
+      "Title": "Wii Sports",
+      "Copies sold in million": 82.78
+    }
+  },
+  "Wii U": {
+    "Release date": {
+      "JP": "2012-12-08",
+      "NA": "2012-11-18",
+      "EU": "2012-11-30"
+    },
+    "Units sold in million": 13.56,
+    "Best selling game": {
+      "Title": "Mario Kart 8",
+      "Copies sold in million": 8.26
+    }
+  },
+  "Nintendo Switch": {
+    "Release date": {
+      "JP": "2017-03-03",
+      "NA": "2017-03-03",
+      "EU": "2017-03-03"
+    },
+    "Units sold in million": 10,
+    "Best selling game": {
+      "Title": "The Legend of Zelda: Breath of the Wild",
+      "Copies sold in million": 4.7
+    }
+  }
+}
