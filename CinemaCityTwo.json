@@ -3,7 +3,7 @@
   "studios": {
     "studio A": {
       "floor": 1,
-      "searts": 782,
+      "seats": 782,
       "equipments": [
         "KIC real sound",
         "digital projector",
@@ -12,7 +12,7 @@
     },
     "studio B": {
       "floor": 4,
-      "searts": 303,
+      "seats": 303,
       "equipments": [
         "KIC real sound",
         "digital projector"
@@ -20,7 +20,7 @@
     },
     "studio C": {
       "floor": 4,
-      "searts": 180,
+      "seats": 180,
       "equipments": [
         "KIC real sound",
         "digital projector",
@@ -29,7 +29,7 @@
     },
     "studio D": {
       "floor": 5,
-      "searts": 177,
+      "seats": 177,
       "equipments": [
         "KIC real sound",
         "digital projector",
@@ -38,7 +38,7 @@
     },
     "studio E": {
       "floor": 5,
-      "searts": 177,
+      "seats": 177,
       "equipments": [
         "KIC real sound",
         "digital projector",
