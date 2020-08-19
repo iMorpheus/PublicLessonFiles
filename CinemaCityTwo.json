@@ -1,0 +1,49 @@
+{
+  "located in": "Tachikawa City",
+  "studios": {
+    "studio A": {
+      "floor": 1,
+      "seats": 782,
+      "equipments": [
+        "KIC real sound",
+        "digital projector",
+        "film projector"
+      ]
+    },
+    "studio B": {
+      "floor": 4,
+      "seats": 303,
+      "equipments": [
+        "KIC real sound",
+        "digital projector"
+      ]
+    },
+    "studio C": {
+      "floor": 4,
+      "seats": 180,
+      "equipments": [
+        "KIC real sound",
+        "digital projector",
+        "film projector"
+      ]
+    },
+    "studio D": {
+      "floor": 5,
+      "seats": 177,
+      "equipments": [
+        "KIC real sound",
+        "digital projector",
+        "film projector"
+      ]
+    },
+    "studio E": {
+      "floor": 5,
+      "seats": 177,
+      "equipments": [
+        "KIC real sound",
+        "digital projector",
+        "film projector"
+      ]
+    }
+  }
+}

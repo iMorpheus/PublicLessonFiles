@@ -1,0 +1,10 @@
+{
+    fps: ['battlefield', 'doom', 'splatoon'],
+    rpg: ['diablo', 'final fantasy', 'elderscrolls', 'fallout', 'no man\'s sky'],
+    action: ['mario', 'zelda', 'toom rader'],
+    simulation: ['sim city'],
+    racing: ['gran turismo'],
+    rts: ['star craft', 'command and conquer'],
+    resouce_management: ['hayday', 'age of empire'],
+    flight_simulation: ['ace combat']
+}
