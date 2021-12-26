@@ -26,7 +26,6 @@
 
 ### WHAT WE ARE GOING TO COLLECT ###
 # resolution: 4K
-# resolution: 8K
 # fps: 60
 # fps: 120
 # screen size: 48"
@@ -48,8 +47,6 @@ print('Welcome to the TV recommendation system!')
 print('Please answer the following questions to help us recommend the best TV for you.\n')
 input()
 print('Do you want to watch TV in 4K?')
-input()
-print('Do you want to watch TV in 8K?')
 input()
 print('Do you want to watch TV at 60fps?')
 input()
