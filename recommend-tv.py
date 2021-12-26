@@ -1,5 +1,5 @@
 #!/usr/bin/Python3
-# Purpose: To collect data so we can confirm whether or not Satoshi's TV meets the users needs
+# Purpose: To collect data so we can confirm whether or not Ninjinkun's TV meets the users needs
 
 ### FUNCTIONS ###
 # ask for the user's TV requriements
